@@ -1,0 +1,10 @@
+identifier: auth-service
+title: Authentication Service
+description: Handles user login, registration, and token issuance
+owner: identity-team
+language: Python
+lifecycle: production
+tags:
+  - auth
+  - security
+  - backend
