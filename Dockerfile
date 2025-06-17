@@ -11,4 +11,4 @@ COPY . .
 
 # Expose and run
 EXPOSE 5000
-CMD ["python", "app.py"]
+CMD ["python", "authApp.py"]
