@@ -9,5 +9,5 @@ tags:
   - security
   - backend
 relations:
-  _team:
+  team:
     - identifier: example_team
