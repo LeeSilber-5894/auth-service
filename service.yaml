@@ -8,6 +8,4 @@ tags:
   - auth
   - security
   - backend
-relations:
-  team:
-    - identifier: example_team
+team: example_team
